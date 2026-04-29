@@ -87,6 +87,7 @@ node index.js
 nano ass11.sh
 #!/bin/bash
 while(true)
+do
       echo "Loop Running"
 done
 (Exit by pressing control X then Y then Enter)
